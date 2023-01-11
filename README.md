@@ -5,9 +5,9 @@ My name is Sheena, I have about six years of experience working as a software de
 <!--
 The development of inspection software for visual identification for the Indian Space Research Organization (ISRO) and the Defence Research and Development Organization (DRDO) for space applications was my proudest achievement.
 
-<!--
+
 I am a Optimistic Engineer with 3 years Programming experience. My biggest acheivement was being able to Develop inspection software for visual identification for Defence Research and Development organization (DRDO) and INDIAN SPACE RESEARCH ORGANISATION (ISRO) for SPACE Applications. 
--->
+
 
 As a SOFTWARE ENGINEER, I started my professional career in 2019. Since then, I have worked on numerous projects that have helped introduce new technologies to the market and have developed software for visual identification systems for three years. I was in charge of analyzing quality flaws using visual inspection systems, creating and programming systems in accordance with inspection software, suggesting fresh ideas to enhance performance and optimize the design following correction, directing a group of four people to innovate, create, and provide adequate software applications depending on the requirement. Conducted Quality testing for all new development projects, Verifying technical specifications created by the team, and monitoring teams in India, the UK, and Japan.
 
